@@ -20,16 +20,3 @@ After we finished with __PlanMyTrip__ app, a few changes were recommended so we 
 * Development tools: 
   - Jupyter Notebook 6.4.6
   - Visual Code 1.62.3; just to edit README.md file.
-
-## Resulting Images
-___Vacation Search, Vacation Map___
-
-![Vacation Map](/Vacation_Search/WeatherPy_Vacation_map.png)
-
-___Vacation Itinerary, Travel Map___
-
-![Travel Map](/Vacation_Itinerary/WeatherPy_Travel_map.png)
-
-___Vacation Itinerary, Travel Map with Markers___
-
-![Travel Map with Markers](/Vacation_Itinerary/WeatherPy_Travel_map_markers.png)
