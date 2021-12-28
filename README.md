@@ -24,12 +24,12 @@ After we finished with __PlanMyTrip__ app, a few changes were recommended so we 
 ## Resulting Images
 ___Vacation Search, Vacation Map___
 
-![Vacation Map](Vacation_Search/WeatherPy_Vacation_map.png)
+![Vacation Map](/Vacation_Search/WeatherPy_Vacation_map.png)
 
 ___Vacation Itinerary, Travel Map___
 
-![Travel Map](Vacation_Itinerary/WeatherPy_Travel_map.png)
+![Travel Map](/Vacation_Itinerary/WeatherPy_Travel_map.png)
 
 ___Vacation Itinerary, Travel Map with Markers___
 
-![Travel Map with Markers](Vacation_Itinerary/WeatherPy_Travel_map_markers.png)
+![Travel Map with Markers](/Vacation_Itinerary/WeatherPy_Travel_map_markers.png)
